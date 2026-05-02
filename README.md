@@ -1,21 +1,21 @@
-# 💧 Water Potability Analysis Dashboard
+# 💧 Water Potability Dashboard (Power BI)
 
 ## 📌 Overview
 
-This project analyzes water quality data using Power BI to determine whether water is safe for drinking.
+This project analyzes water quality data to determine whether water is safe for drinking using Power BI.
 
 ---
 
 ## 🎯 Objectives
 
-* Analyze dataset
-* Identify safe vs unsafe water
+* Analyze water dataset
+* Identify safe vs unsafe samples
 * Study pH distribution
 * Understand pH vs turbidity
 
 ---
 
-## 📊 Dashboard
+## 📊 Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
 
@@ -23,15 +23,15 @@ This project analyzes water quality data using Power BI to determine whether wat
 
 ## 📈 Key Insights
 
-* ~61% unsafe water
-* pH mostly between 5–8
-* Weak correlation
+* ~61% of samples are unsafe
+* Most pH values lie between 5–8
+* No strong relationship between pH and turbidity
 
 ---
 
 ## 📷 Visualizations
 
-### Water Status
+### Water Status Distribution
 
 ![Pie](images/pie-chart.png)
 
@@ -45,6 +45,22 @@ This project analyzes water quality data using Power BI to determine whether wat
 
 ---
 
+## 📁 Dataset
+
+Contains:
+
+* pH
+* Hardness
+* Solids
+* Chloramines
+* Sulfate
+* Conductivity
+* Organic Carbon
+* Turbidity
+* Potability
+
+---
+
 
 
 ## 🛠 Tools Used
@@ -54,3 +70,6 @@ This project analyzes water quality data using Power BI to determine whether wat
 
 ---
 
+## 🙌 Author
+
+Appu
