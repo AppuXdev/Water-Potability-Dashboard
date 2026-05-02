@@ -33,11 +33,11 @@ This project analyzes water quality data using Power BI to determine whether wat
 
 ### Water Status
 
-![Pie](images/pie chart.png)
+![Pie](images/piechart.png)
 
 ### pH vs Turbidity
 
-![Scatter](images/scatter plot.png)
+![Scatter](images/scatterplot.png)
 
 ### pH Distribution
 
